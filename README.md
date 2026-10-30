@@ -64,5 +64,119 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sleeperhit-studio is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sleeperhit.studio/
+Sleeper Hit Studio is an enterprise-focused production studio that transforms internal company content into high‑quality audio, video, and interactive episodes. By integrating with tools like Notion, Linear, Slack, and major AI assistants, it automates the creation of podcasts, video shows, and narrative-driven updates for internal communications, product launches, training, and customer storytelling. The platform offers a pay‑as‑you‑go pricing model, customizable credits, and a suite of integrations that let teams generate, edit, and publish episodic content without needing dedicated media expertise.
+
+**Areas:** Company · Audio · Video · Podcast · Enterprise · Automation
+
+## sleeperhit-studio on APIs.io
+
+Everything profiled for sleeperhit-studio is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sleeperhit-studio/](https://apis.io/providers/sleeperhit-studio/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Sleeper Hit Studio Story API](https://apis.io/apis/sleeperhit-studio/sleeper-hit-studio-story-api/) — Programmatic story generation, source‑grounded planning, and durable artifact delivery for AI agents and enterprise integrations.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Sleeperhit Studio Openapi Overlay](https://apis.io/overlays/sleeperhit-studio/sleeperhit-studio-openapi-overlay/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sleeperhit Studio Authentication](https://apis.io/security/sleeperhit-studio/sleeperhit-studio-authentication/)
+- [Sleeperhit Studio Domain Security](https://apis.io/security/sleeperhit-studio/sleeperhit-studio-domain-security/)
+- [Sleeperhit Studio Vulnerability Disclosure](https://apis.io/security/sleeperhit-studio/sleeperhit-studio-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Sleeperhit Studio Scopes](https://apis.io/scopes/sleeperhit-studio/sleeperhit-studio-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Sleeperhit Studio Plans Pricing](https://apis.io/plans/sleeperhit-studio/sleeperhit-studio-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Sleeperhit Studio Rate Limits](https://apis.io/rate-limits/sleeperhit-studio/sleeperhit-studio-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sleeperhit.studio/)
+- [Documentation](https://sleeperhit.studio/docs)
+- [Getting started](https://docs.sleeperhit.studio/quickstart)
+- [API reference](https://docs.sleeperhit.studio/api-reference)
+- [Pricing](https://sleeperhit.studio/pricing)
+- [Sign up](https://sleeperhit.studio/signup?intent=business&interval=monthly&plan=development)
+- [Support](https://sleeperhit.studio/contact)
+- [Terms of service](https://sleeperhit.studio/terms)
+- [Privacy policy](https://sleeperhit.studio/privacy)
+
+## API Evangelist rating
+
+**Kin Score 41.6** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 30.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 68.3 |
+| Access clarity | 63.7 |
+
+**Agent readiness 28.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | derived (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 40.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sleeperhit-studio/](https://apis.io/providers/sleeperhit-studio/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for sleeperhit-studio: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sleeperhit-studio/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
